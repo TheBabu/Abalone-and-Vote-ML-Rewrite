@@ -1,5 +1,5 @@
 # Abalone-and-Vote-ML-Rewrite
-#### A rewrite of some old machine learning projects using Tensorflow 2 and Keras
+### A rewrite of some old machine learning projects using Tensorflow 2 and Keras
 
 When I first wrote my Abalone and Vote Machine Learning Projects, they mainly utilized Tensorflow 1. This project rewrites those old projects using Tensorflow 2 and Keras, a high-level API for ML. The reason why I wanted to do this is that first off, when doing this project it was during the COVID-19 pandemic and I was really bored and secondly I wanted to learn the more "proper" way of utilizing Tensorflow. 
 
